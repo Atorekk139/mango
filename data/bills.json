@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 120.50,
+        "due_date": "2024-04-10",
+        "bill_type": "Prąd",
+        "apartment_id": 2
+    },
+    {
+        "amount": 65.00,
+        "due_date": "2024-04-15",
+        "bill_type": "Internet",
+        "apartment_id": 2
+    }
+]
