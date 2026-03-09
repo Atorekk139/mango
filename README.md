@@ -2,6 +2,7 @@
 
 Aplikacja do rozliczania najmowanych mieszkań.
 
+mango
 ## Getting started
 
 - Używając *Python3.12* utwórz *venv* i zainstaluj zależności
